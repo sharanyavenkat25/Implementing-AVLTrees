@@ -4,5 +4,8 @@ Given a student record, consisting of student ID and their marks for one particu
 Find and compare the time complexities in worst case and analyze which data structure is better in terms of time complexity for the given scenario.
 
 ## Output Snapshots
+### Insertion and Creation
+![Insertion and creation](https://github.com/sharanyavenkat25/Implementing-AVLTrees/blob/master/results/time_insertion_creation.png)
 
-
+### Searching 
+![Searching](https://github.com/sharanyavenkat25/Implementing-AVLTrees/blob/master/results/time_search.png)
